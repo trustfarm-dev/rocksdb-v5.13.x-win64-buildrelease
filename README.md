@@ -7,7 +7,7 @@ And CMake scripts also not run well on CLI.
 
 Giggs on googling and many other resources helps to build this release.
 
-Final output's included this repository.
+Final output's included this repository. JNI (Java) Interface option doesn't used.
 
 All library and executables built on MSVS 2017 v141 build toolkit. regardless of directory names.
 
