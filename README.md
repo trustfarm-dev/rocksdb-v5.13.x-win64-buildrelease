@@ -2,7 +2,7 @@
 
 Build on MS Visual Studio 2017 x64 targets.
 
-[[https://github.com/facebook/rocksdb/wiki/Building-on-Windows|RocksDB Wiki]] how to build on windows is a little bit outdated.
+[[https://github.com/facebook/rocksdb/wiki/Building-on-Windows ||RocksDB Wiki]] how to build on windows is a little bit outdated.
 And CMake scripts also not run well on CLI.
 
 Giggs on googling and many other resources helps to build this release.
@@ -11,7 +11,7 @@ Final output's included this repository.
 
 rocksdb/
 rocksdb/build/release 
-
+```
 ==== list of zipped files ====
 
 Archive:  release_pack.zip
@@ -85,3 +85,4 @@ Archive:  release_pack.zip
     26192  2018-04-23 22:29   rocksdb-2.7-win64-release/zlib-1.2.11/contrib/vstudio/vc14/x64/ZlibStatRelease/zlibwapi.lib
 ---------                     -------
 283581572                     66 files
+```
