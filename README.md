@@ -1,4 +1,4 @@
-# rocksdb-5.11.x-win64-buildrelease [latest : https://github.com/facebook/rocksdb/commit/a8a28da2159648a2f72c35ea507371df8a97a2a9]
+# rocksdb-5.13.x-win64-buildrelease [latest : https://github.com/facebook/rocksdb/commit/a8a28da2159648a2f72c35ea507371df8a97a2a9]
 
 ##2.7 is mis-typo.
 
@@ -12,6 +12,8 @@ Giggs on googling and many other resources helps to build this release.
 Final output's included this repository. JNI (Java) Interface option doesn't used.
 
 All library and executables built on MSVS 2017 v141 build toolkit. regardless of directory names.
+
+** there's runtime error occured on this latest master commit branch. **
 
 rocksdb/
 rocksdb/build/release 
