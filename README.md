@@ -9,6 +9,8 @@ Giggs on googling and many other resources helps to build this release.
 
 Final output's included this repository.
 
+All library and executables built on MSVS 2017 v141 build toolkit. regardless of directory names.
+
 rocksdb/
 rocksdb/build/release 
 ```
