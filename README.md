@@ -1,4 +1,6 @@
-# rocksdb-2.7-win64-buildrelease
+# rocksdb-5.11.x-win64-buildrelease [latest : https://github.com/facebook/rocksdb/commit/a8a28da2159648a2f72c35ea507371df8a97a2a9]
+
+##2.7 is mis-typo.
 
 Build on MS Visual Studio 2017 x64 targets.
 
